@@ -1,0 +1,7 @@
+{
+  "name": "CartoonGAN Sample",
+  "description": "A barebones python app using Heroku",
+  "repository": "https://github.com/heroku/cartoon-gan",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
